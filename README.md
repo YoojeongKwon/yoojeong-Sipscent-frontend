@@ -112,6 +112,8 @@
 
 #### 11. 배포 완료!
 
+http://sipscent.s3-website.ap-northeast-2.amazonaws.com/
+
 ### [BACKEND]
 
 #### 1. ERD
